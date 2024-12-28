@@ -1,2 +1,2 @@
-# Diabetic-retinopathy
-This project implements a computer vision pipeline for tasks like image classification and object detection using Python, OpenCV, TensorFlow, and PyTorch. It includes data preprocessing, model training, and evaluation, with deployment via Flask/FastAPI for real-time predictions in scalable applications.
+# Detection-of-Diabetic-Retinopathy-using-CNN
+Diabetic retinopathy detection with Convolutional Neural Networks (CNNs) involves training the model on labeled fundus images to recognize specific patterns indicative of the condition. Once trained, the CNN can analyze new retinal images, automatically identifying signs of diabetic retinopathy and assisting in early diagnosis. 
